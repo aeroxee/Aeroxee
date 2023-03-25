@@ -18,11 +18,17 @@ func main() {
 	}
 }
 
+// OperatingSystem function to get operating system used by `Fajri Fath`.
+func OperatingSystem() string {
+	return "Arch Linux"
+}
+
+// GetBio is function to return map array bio.
 func GetBio() Bio {
 	return Bio{
 		"- ⚡ Quick bio:":                    "Without Error I am nothing",
 		"- 🔭 I’m currently working on":      "I am an active student to learn the world of programming ---,
-		"- 🌱 I’m currently learning":        "Golang, MongoDB, RabbitMQ, K8s, GCP (Tech stack from my company) --- Sharpening my Front End Skills for the MERN stack (Personal goal)",
+		"- 🌱 I’m currently learning":        "Golang, Postgresql, TypeScript, Node.JS, Go to Full Stack Developper",
 		"- 👯 I’m looking to collaborate on": "Golang, React JS, And Python related projects",
 		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
 		"- 💬 Ask me about":                  "Python, Golang, PostgreSQL, Software Design & Architecture, Web-Dev and SEO",
