@@ -3,7 +3,7 @@
 <h2 align="center">About me</h2>
 
 ```golang
-// Package main is package for show aZ4ziL bio.
+// Package main is package for show Aeroxee bio.
 package main
 
 import (
@@ -66,15 +66,15 @@ func GetBio() Bio {
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{aZ4ziL}/count.svg" alt="aZ4ziL :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{Aeroxee}/count.svg" alt="Aeroxee :: Visitor's Count" /></p>
 
 <h4 align="center">Top langs :tongue:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aZ4ziL&langs_count=10&theme=tokyonight&layout=compact" alt="aZ4ziL :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aeroxee&langs_count=10&theme=tokyonight&layout=compact" alt="Aeroxee :: Top Langs" /></p>
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=aZ4ziL&show_icons=true&theme=synthwave" alt="aZ4ziL :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Aeroxee&show_icons=true&theme=synthwave" alt="Aeroxee :: Profile Stats" /></p>
 
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
